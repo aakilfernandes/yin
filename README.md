@@ -13,6 +13,9 @@ heighest value _Yin_ digit.
 ```
 $ make
 $ echo 1234567890 | ./yin # this utility reads from STDIN and writes to STDOUT
+foq.ham.bit
+$ echo 2047 | ./yin
+yin
 ```
 
 ## Caution
